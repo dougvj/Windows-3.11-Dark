@@ -22,10 +22,10 @@
 <constant name="WindowBackground" value="gtk:base[NORMAL]"/>
 
 <!-- These colours are hard-coded in the Win3.1 video drivers -->
-<constant name="ButtonHighlight" value="#FFFFFF"/>
-<constant name="ButtonFace" value="#C0C0C0"/>
+<constant name="ButtonHighlight" value="#606060"/>
+<constant name="ButtonFace" value="#404040"/>
 <constant name="ButtonShadow" value="#808080"/>
-<constant name="ButtonText" value="#000000"/>
+<constant name="ButtonText" value="#E0E0E0"/>
 
 <!-- 
 CTL3DV2.DLL re-uses the Button* colours here, but we want to distinguish

@@ -4,8 +4,8 @@
 
 style "statusbar" {
 
-$bg[NORMAL] = "#c0c0c0"
-#fg[NORMAL] = "#c0c0c0"
+$bg[NORMAL] = "#404040"
+#fg[NORMAL] = "#404040"
 
 #GtkStatusBar::shadow-type = GTK_SHADOW_NONE
 

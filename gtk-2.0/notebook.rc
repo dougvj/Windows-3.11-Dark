@@ -6,7 +6,7 @@ style "notebook"
 {
 #        GtkWidget::focus-line-width=0
 #        Gtk*::shadow-type = GTK_SHADOW_NONE
-        bg[NORMAL] = "#000"
+        bg[NORMAL] = "#404040"
 
 	engine "pixmap" 
 	{

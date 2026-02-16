@@ -4,8 +4,8 @@
 # GPL2
 ########################################################################
 
-gtk_color_scheme = 
-"fg_color:#000\nbg_color:#c0c0c0\nbase_color:#fff\ntext_color:#000\nselected_bg_color:#0000aa\nselected_fg_color:#fff\ntooltip_bg_color:#ffffe1\ntooltip_fg_color:#000"
+gtk_color_scheme =
+"fg_color:#E0E0E0\nbg_color:#404040\nbase_color:#2D2D2D\ntext_color:#E0E0E0\nselected_bg_color:#0000aa\nselected_fg_color:#fff\ntooltip_bg_color:#4A4A3A\ntooltip_fg_color:#E0E0E0"
 gtk-icon-sizes ="gtk-small-toolbar=16,16:gtk-large-toolbar=24,24:gtk-button=16,16"
 
 include "scrollbar.rc" 
@@ -25,8 +25,8 @@ style "default"
         GtkToolbar::shadow_type = GTK_SHADOW_OUT
         GtkPaned::handle-size = 0
         GtkComboBox::appears-as-list = 1
-        GtkTreeView::odd_row_color = "#ffffff"
-        GtkTreeView::even_row_color = "#ffffff"
+        GtkTreeView::odd_row_color = "#2D2D2D"
+        GtkTreeView::even_row_color = "#2D2D2D"
         
 	fg[ACTIVE] = @fg_color
   	fg[INSENSITIVE] = @fg_color
@@ -34,7 +34,7 @@ style "default"
   	fg[PRELIGHT] = @fg_color
   	fg[SELECTED] = @selected_fg_color
 
-	bg[ACTIVE] = "#ffffff"
+	bg[ACTIVE] = "#2D2D2D"
 	bg[INSENSITIVE] = @bg_color
 	bg[NORMAL] = @bg_color
 	bg[PRELIGHT] = @bg_color
@@ -60,8 +60,8 @@ class "GtkWidget" style "default"
 
 style "tooltips" = "default"
 {
-	bg[NORMAL] = "#FFFCDB"
-	fg[NORMAL] = "#000000"
+	bg[NORMAL] = "#4A4A3A"
+	fg[NORMAL] = "#E0E0E0"
 }
 
 
@@ -75,18 +75,18 @@ style "color-fix"
 	GtkTreeView::vertical-separator = 0
         GtkToolbar::internal-padding = 0
 
-        bg[NORMAL] = "#FFF"
-	fg[ACTIVE] =  "#000"
-  	fg[INSENSITIVE] = "#000"
-  	fg[NORMAL] =  "#000"
+        bg[NORMAL] = "#2D2D2D"
+	fg[ACTIVE] =  "#E0E0E0"
+  	fg[INSENSITIVE] = "#808080"
+  	fg[NORMAL] =  "#E0E0E0"
   	fg[PRELIGHT] = "#fff"
   	fg[SELECTED] = "#fff"
 
-	text[ACTIVE] = "#000"
+	text[ACTIVE] = "#E0E0E0"
 	text[INSENSITIVE] = shade (0.7,@bg_color)
-	text[NORMAL] = "#000"
-	text[PRELIGHT] = "#000"
-	text[SELECTED] = "#000"
+	text[NORMAL] = "#E0E0E0"
+	text[PRELIGHT] = "#E0E0E0"
+	text[SELECTED] = "#fff"
 }
 
 #class "<GtkCombo>*" style "color-fix"
@@ -106,21 +106,21 @@ widget_class "*<GtkSeparatorMenuItem>*" 		style "color-fix"
 
 style "color-fix-combo"
 {
-	fg[ACTIVE] =  "#000"
-  	fg[INSENSITIVE] = "#000"
-  	fg[NORMAL] =  "#000"
-  	fg[PRELIGHT] = "#000"
-  	fg[SELECTED] = "#000"
+	fg[ACTIVE] =  "#E0E0E0"
+  	fg[INSENSITIVE] = "#808080"
+  	fg[NORMAL] =  "#E0E0E0"
+  	fg[PRELIGHT] = "#E0E0E0"
+  	fg[SELECTED] = "#fff"
 
-	text[ACTIVE] = "#000"
+	text[ACTIVE] = "#E0E0E0"
 	text[INSENSITIVE] = shade (0.7,@bg_color)
-	text[NORMAL] = "#000"
-	text[PRELIGHT] = "#000"
-	text[SELECTED] = "#000"
+	text[NORMAL] = "#E0E0E0"
+	text[PRELIGHT] = "#E0E0E0"
+	text[SELECTED] = "#fff"
 }
 
 style "scrolledwindow-style" {
-bg[NORMAL] = "#c0c0c0"
+bg[NORMAL] = "#404040"
 GtkScrolledWindow::scrollbar-spacing = 0
 GtkScrolledWindow::scrollbars-within-bevel = 1
 

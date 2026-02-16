@@ -6,11 +6,11 @@ style "progressbar"
 {
 	GtkProgressBar ::shadow-type = GTK_SHADOW_NONE
 
-	fg[NORMAL] = "#000"
+	fg[NORMAL] = "#E0E0E0"
 	fg[PRELIGHT] = { 1.0, 1.0, 1.0 }
 	fg[SELECTED] = "#FFF"
-	
-	bg[NORMAL] = "#BCBCBC" # Color of sorted columns
+
+	bg[NORMAL] = "#353535" # Color of sorted columns
 	bg[SELECTED] = @selected_bg_color
 	
 	engine "pixmap"

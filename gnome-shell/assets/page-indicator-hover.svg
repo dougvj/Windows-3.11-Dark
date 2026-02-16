@@ -19,7 +19,7 @@
      id="defs5268" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#606060"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
@@ -56,7 +56,7 @@
      transform="translate(0,2)">
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+       style="opacity:1;color:#000000;fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
        d="m 9.0000002,-1.0000001 c -4.4182785,0 -8.00000045,3.581722 -8.00000045,8 C 0.99999975,11.418278 4.5817217,15 9.0000002,15 13.418278,15 17,11.418278 17,6.9999998 17,2.5817219 13.418278,-1.0000001 9.0000002,-1.0000001 z m 0,0.99999995 C 12.865993,-1.5e-7 16,3.1340067 16,6.9999999 16,10.865993 12.865993,14 9.0000002,14 5.1340065,14 1.9999997,10.865993 1.9999997,6.9999999 1.9999997,3.1340067 5.1340065,-1.5e-7 9.0000002,-1.5e-7 z"
        id="path2995" />
   </g>

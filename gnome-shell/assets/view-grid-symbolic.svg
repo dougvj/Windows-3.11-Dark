@@ -36,15 +36,15 @@
        inkscape:collect="always"
        id="linearGradient3753">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#606060;stop-opacity:1"
          offset="0"
          id="stop3755" />
       <stop
          id="stop3761"
          offset="0.37880105"
-         style="stop-color:#ffffff;stop-opacity:0.86666667;" />
+         style="stop-color:#606060;stop-opacity:0.86666667;" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#606060;stop-opacity:0;"
          offset="1"
          id="stop3757" />
     </linearGradient>
@@ -52,11 +52,11 @@
        inkscape:collect="always"
        id="linearGradient6020">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#606060;stop-opacity:1;"
          offset="0"
          id="stop6022" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#606060;stop-opacity:0;"
          offset="1"
          id="stop6024" />
     </linearGradient>
@@ -64,11 +64,11 @@
        inkscape:collect="always"
        id="linearGradient5966">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#606060;stop-opacity:1;"
          offset="0"
          id="stop5968" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#606060;stop-opacity:0;"
          offset="1"
          id="stop5970" />
     </linearGradient>
@@ -76,11 +76,11 @@
        inkscape:collect="always"
        id="linearGradient5820">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#606060;stop-opacity:1;"
          offset="0"
          id="stop5822" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#606060;stop-opacity:0;"
          offset="1"
          id="stop5824" />
     </linearGradient>
@@ -100,11 +100,11 @@
        inkscape:collect="always"
        id="linearGradient5796">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#606060;stop-opacity:1;"
          offset="0"
          id="stop5798" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#606060;stop-opacity:0;"
          offset="1"
          id="stop5800" />
     </linearGradient>
@@ -123,11 +123,11 @@
        inkscape:collect="always"
        id="linearGradient5760">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#606060;stop-opacity:1;"
          offset="0"
          id="stop5762" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#606060;stop-opacity:0;"
          offset="1"
          id="stop5764" />
     </linearGradient>
@@ -161,11 +161,11 @@
     <linearGradient
        id="linearGradient3974">
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.91503268;"
+         style="stop-color:#606060;stop-opacity:0.91503268;"
          offset="0"
          id="stop3976" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.079207920;"
+         style="stop-color:#606060;stop-opacity:0.079207920;"
          offset="1.0000000"
          id="stop3978" />
     </linearGradient>
@@ -206,11 +206,11 @@
     <linearGradient
        id="linearGradient3914">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#606060;stop-opacity:1;"
          offset="0"
          id="stop3916" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         style="stop-color:#606060;stop-opacity:1.0000000;"
          offset="0.28787878"
          id="stop4076" />
       <stop
@@ -218,7 +218,7 @@
          offset="0.61157024"
          id="stop4074" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         style="stop-color:#606060;stop-opacity:1.0000000;"
          offset="1.0000000"
          id="stop3918" />
     </linearGradient>
@@ -462,7 +462,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#606060"
      bordercolor="#d8d8d8"
      borderopacity="1"
      inkscape:pageopacity="0.0"
